@@ -11,28 +11,36 @@
 
 ## Comment la difficulté va changer entre ces niveaux ? 
 avec plus d'obstacle et/ou plus d'ennemis sur son chemin
-facile : ennemis gardien devant la porte
-moyen : cle 
-difficile :
+- facile : ennemis gardien devant la porte
+- moyen : cle 
+- difficile : ennmis gardien + cle 
 
 ## Quels nouveaux objets ou paramètres seront changés ?
 ajout objet et ennemis
 facile : ennemis gardien devant la porte
 moyen : cle 
-difficile : 
+difficile : cle couleur
 
 # Programmation d’un système de clé et de porte
 
 ## Quelles conditions doivent être complétées pour progresser entre les niveaux ? 
 Atteindre le sommet et récupéré l'item choisi.
+- atteindre la porte
+- récuperer clé ascenceur
+- récupérer clé helipcopter
+
 
 ## Où entre différents sections d'un même niveau ?
 
 # Intégration d’une interface graphique HUD («Head-Up Display»)
 
 ## Quels éléments sont importantes à afficher ? À quels moments chaque information doit être affichée (permanentes ou temporaires) ?
+- clé temporaire
+- mur lock temporaire
+- 
 
 ## Quelles informations le joueur a besoin pour attendre ses objectifs ?
+- recupérer les clés et débloquer le prochain
 
 
 # Notes de cours
