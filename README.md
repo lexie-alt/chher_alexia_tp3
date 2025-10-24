@@ -11,7 +11,7 @@
 
 ## Comment la difficulté va changer entre ces niveaux ? 
 avec plus d'obstacle et/ou plus d'ennemis sur son chemin
-- facile : ennemis gardien devant la porte
+- facile : ennemis gardien devant la porte (si le temps) en attendant mettre clé
 - moyen : cle 
 - difficile : ennmis gardien + cle 
 
@@ -29,15 +29,20 @@ Atteindre le sommet et récupéré l'item choisi.
 - récuperer clé ascenceur
 - récupérer clé helipcopter
 
-
 ## Où entre différents sections d'un même niveau ?
+-clé - rouge
+-clé - bleu 
+-clé - vert
 
 # Intégration d’une interface graphique HUD («Head-Up Display»)
+- indication scene niveau
+- clé recoltée affichge
+- nombre de vie (au besoin)
 
 ## Quels éléments sont importantes à afficher ? À quels moments chaque information doit être affichée (permanentes ou temporaires) ?
 - clé temporaire
 - mur lock temporaire
-- 
+
 
 ## Quelles informations le joueur a besoin pour attendre ses objectifs ?
 - recupérer les clés et débloquer le prochain
