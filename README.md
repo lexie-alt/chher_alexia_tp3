@@ -1,6 +1,6 @@
 # chher_alexia_tp3
 
-# Thématique 
+# Thématique de la scène 
 Édifice de ville
 
 # États, niveaux et progression 
@@ -17,9 +17,9 @@ avec plus d'obstacle et/ou plus d'ennemis sur son chemin
 
 ## Quels nouveaux objets ou paramètres seront changés ?
 ajout objet et ennemis
-facile : ennemis gardien devant la porte
-moyen : cle 
-difficile : cle couleur
+- facile : ennemis gardien devant la porte
+- moyen : cle 
+- difficile : cle couleur
 
 # Programmation d’un système de clé et de porte
 
