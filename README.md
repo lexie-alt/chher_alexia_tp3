@@ -30,9 +30,9 @@ Atteindre le sommet et récupéré l'item choisi.
 - récupérer clé helipcopter
 
 ## Où entre différents sections d'un même niveau ?
--clé - rouge
--clé - bleu 
--clé - vert
+-clé rouge
+-clé bleu 
+-clé vert
 
 # Intégration d’une interface graphique HUD («Head-Up Display»)
 - indication scene niveau
@@ -46,6 +46,10 @@ Atteindre le sommet et récupéré l'item choisi.
 
 ## Quelles informations le joueur a besoin pour attendre ses objectifs ?
 - recupérer les clés et débloquer le prochain
+
+## Assets
+(https://kenney.nl/assets/platformer-art-deluxe)
+
 
 
 # Notes de cours
