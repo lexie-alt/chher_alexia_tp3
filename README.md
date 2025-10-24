@@ -48,7 +48,9 @@ Atteindre le sommet et récupéré l'item choisi.
 - recupérer les clés et débloquer le prochain
 
 ## Assets
-(https://kenney.nl/assets/platformer-art-deluxe)
+(https://kenney.nl/assets/platformer-art-deluxe) asset
+(https://kenney.nl/assets/kenney-fonts) font
+(https://kenney.nl/assets/generic-items) items
 
 
 
