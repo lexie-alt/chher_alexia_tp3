@@ -5,9 +5,9 @@
 
 # États, niveaux et progression 
 ## Quels sont les niveaux de cette version de ton jeu (au moins 3) ? 
-facile : extérieur building
-moyen : intérieur bureau
-difficile : extérieur toit building
+- facile : extérieur building
+- moyen : intérieur bureau
+- difficile : extérieur toit building
 
 ## Comment la difficulté va changer entre ces niveaux ? 
 avec plus d'obstacle et/ou plus d'ennemis sur son chemin
