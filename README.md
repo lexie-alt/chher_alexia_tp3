@@ -52,6 +52,8 @@ Atteindre le sommet et récupéré l'item choisi.
 - (https://kenney.nl/assets/kenney-fonts) font
 - (https://kenney.nl/assets/generic-items) items
 
+- (https://youtu.be/ExaELfOmk1g) paralax 2d background
+
 
 
 # Notes de cours
@@ -87,4 +89,6 @@ await = attendre que
 veux attendre que son de la cle soit terminer pour destruction sinon cle va disparaitre avant son ou animation
 
 fonction toutes ecrit dans script main 
+
+
 
