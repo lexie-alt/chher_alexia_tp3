@@ -1,13 +1,13 @@
 # chher_alexia_tp3
 
 # Thématique de la scène 
-Édifice de ville
+mine et monde fantastique
 
 # États, niveaux et progression 
 ## Quels sont les niveaux de cette version de ton jeu (au moins 3) ? 
-- facile : extérieur building
-- moyen : intérieur bureau
-- difficile : extérieur toit building
+- facile : extérieur mine
+- moyen : intérieur mine
+- difficile : monde fantastique
 
 ## Comment la difficulté va changer entre ces niveaux ? 
 avec plus d'obstacle et/ou plus d'ennemis sur son chemin
@@ -25,9 +25,9 @@ ajout objet et ennemis
 
 ## Quelles conditions doivent être complétées pour progresser entre les niveaux ? 
 Atteindre le sommet et récupéré l'item choisi.
-- atteindre la porte
-- récuperer clé ascenceur
-- récupérer clé helipcopter
+- atteindre l'entrée de la mine
+- récuperer clé porte magique
+- récupérer clé coffre
 
 ## Où entre différents sections d'un même niveau ?
 - clé rouge
